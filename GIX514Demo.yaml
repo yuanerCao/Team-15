@@ -1,0 +1,26 @@
+name: GIX514Demo
+channels:
+  - defaults
+dependencies:
+  - blas=1.0=openblas
+  - ca-certificates=2021.10.26=hca03da5_2
+  - certifi=2021.10.8=py38hca03da5_2
+  - libcxx=12.0.0=hf6beb65_1
+  - libffi=3.4.2=hc377ac9_2
+  - libgfortran=5.0.0=11_1_0_h6a59814_26
+  - libgfortran5=11.1.0=h6a59814_26
+  - libopenblas=0.3.17=hcab743c_1
+  - llvm-openmp=12.0.0=haf9daa7_1
+  - ncurses=6.3=h1a28f6b_2
+  - numpy=1.19.5=py38habd9f23_3
+  - openssl=1.1.1m=h1a28f6b_0
+  - pip=21.2.4=py38hca03da5_0
+  - python=3.8.11=hbdb9e5c_5
+  - readline=8.1.2=h1a28f6b_1
+  - setuptools=58.0.4=py38hca03da5_1
+  - sqlite=3.37.0=h1058600_0
+  - tk=8.6.11=hb8d0fd4_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.5=h1a28f6b_0
+  - zlib=1.2.11=h5a0b063_4
+prefix: /Users/avi/miniconda3/envs/GIX514Demo
